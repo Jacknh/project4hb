@@ -1,0 +1,35 @@
+{
+  "title": "美丽的连衣裙",
+  "price": 100,
+  "goodsno": "test002",
+  "brand": "海贝",
+  "data": [
+    {
+      "color": "灰色",
+      "mNumber": "",
+      "lNumber": "",
+      "sNumber": "",
+      "mMax": 166,
+      "lMax": 66,
+      "sMax": 6
+    },
+    {
+      "color": "红色",
+      "mNumber": "",
+      "lNumber": "",
+      "sNumber": "",
+      "mMax": 188,
+      "lMax": 88,
+      "sMax": 8
+    },
+    {
+      "color": "黄色",
+      "mNumber": "",
+      "lNumber": "",
+      "sNumber": "",
+      "mMax": 199,
+      "lMax": 99,
+      "sMax": 9
+    }
+  ]
+}
